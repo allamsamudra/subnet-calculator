@@ -3,6 +3,8 @@
 A simple, clean subnet calculator web app built with React.  
 Enter any IP address and CIDR prefix to instantly get all subnet details.
 
+**Live Demo →** [allamsamudra.github.io/subnet-calculator](https://allamsamudra.github.io/subnet-calculator)
+
 ![Subnet Calculator Screenshot](screenshot.png)
 
 ---
