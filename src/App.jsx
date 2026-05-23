@@ -130,7 +130,7 @@ export default function SubnetCalculator() {
 
         {/* Header */}
         <div style={{ marginBottom: 28, textAlign: "center" }}>
-          <div style={{ fontSize: 36, marginBottom: 8 }}>🌐</div>
+          <div style={{ fontSize: 36, marginBottom: 8 }}></div>
           <h1 style={{ margin: 0, fontSize: 24, fontWeight: 700, color: "#1a2535" }}>
             Subnet Calculator
           </h1>
