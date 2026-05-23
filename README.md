@@ -84,21 +84,6 @@ Total hosts = 2^(32 - prefix) - 2
 
 ---
 
-##  Project Structure
-
-```
-subnet-calculator/
-├── src/
-│   ├── App.jsx          # Main component and UI
-│   └── main.jsx         # React entry point
-├── public/
-│   └── index.html
-├── package.json
-└── README.md
-```
-
----
-
 ##  Run It Locally
 
 **Requirements:** Node.js installed on your computer.
